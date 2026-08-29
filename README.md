@@ -3,7 +3,7 @@
 
   <!-- Animated Typing Text -->
   <a href="https://github.com/mhrdkrafa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Fresh+Graduate+Developer;Mobile+Dev+(Flutter+%26+Dart);Web+Dev+(Laravel+%26+PHP);Open+for+Projects+%26+Collaboration;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Web+%26+Mobile+Developer;Web+Dev+(Laravel+%26+PHP);Mobile+Dev+(Flutter+%26+Dart);Open+for+Projects+%26+Collaboration;Let's+Build+Something+Awesome!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -16,9 +16,8 @@
 
   <!-- Social & Contact Badges -->
   <br><br>
-  <p align="center">
-    <b>🤝 Connect with me:</b>
-  </p>
+  
+### 🤝 Connect with me:
   <a href="mailto:mahardika.raffa04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
