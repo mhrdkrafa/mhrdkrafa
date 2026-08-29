@@ -94,7 +94,7 @@ const mahardikaRafa = {
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhrdkrafa&theme=tokyonight" alt="GitHub Profile Details" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhrdkrafa&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-six.vercel.app/?user=mhrdkrafa&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhrdkrafa&theme=tokyonight" alt="Languages Card" />
 </div>
